@@ -1,5 +1,5 @@
 
-package human2.hetro;
+package human.obstacle;
 
 
 import javax.vecmath.Vector2d;
